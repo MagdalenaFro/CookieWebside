@@ -1,6 +1,5 @@
 body {
   background-color: black;
-
   font-family: helvetica;
 }
 header{
@@ -8,12 +7,12 @@ header{
   background-position: center;
   background-size: cover;
   text-align: center;
-  color: white;
+  color: khaki;
 }
 main{
   text-align: justify;
   color: khaki;
-  padding: 20px;
+  padding: 22px;
   font-weight: bold;
 
 }
